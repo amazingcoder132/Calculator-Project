@@ -11,6 +11,6 @@ Can handle errors with no issues
 Technologies Used
 HTML — webpage
 
-CSS3 — design and styling
+CSS — design and styling
 
 JavaScript— calculator logic
